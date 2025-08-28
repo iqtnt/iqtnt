@@ -7,4 +7,4 @@
 
 
 ## 🔗 تواصل معي
-- 🌐 [حسابي على instagram](https://instagram.com/488i88)
+- 🌐 [instagram](https://instagram.com/488i88)
