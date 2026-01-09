@@ -14,14 +14,6 @@
 
 ---
 
-### 📊 إحصائيات GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqtnt&show_icons=true&theme=radical" alt="iqtnt github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqtnt&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ![GitHub Snake Dark](https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/github-snake-dark.svg#gh-dark-mode-only)
 ---
