@@ -13,10 +13,6 @@
 
 ---
 
-
-![GitHub Snake Dark](https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/github-snake-dark.svg#gh-dark-mode-only)
----
-
 ### 🌐 تواصل معي
 <p align="center">
   <a href="https://instagram.com/488i88"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white"/></a>
