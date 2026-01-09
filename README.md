@@ -24,4 +24,7 @@
 </p>
 
 ---
+
+![GitHub Snake Dark](https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/github-snake-dark.svg#gh-dark-mode-only)
+
 ⭐ لا تنسَ إعطاء نجمة للمشاريع اللي عجبتك!
