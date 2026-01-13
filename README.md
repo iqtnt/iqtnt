@@ -1,14 +1,14 @@
-<h1 align="center">👋 أهلاً بك، أنا سجاد | SaJaD (iqtnt)</h1>
+<h1 align="center">👋 Hello, أنا سجاد </h1>
 
 <p align="center">
-  🔒 Security Researcher | 🐞 Bug Bounty Hunter | 💻 Developer
+  🔒 Security Researcher | 🐞 Bug Bounty Hunter | 💻 Programmer
 </p>
 
 ---
 
 ### 🚀 عني
-- باحث في الأمن السيبراني وصياد ثغرات.
-- مهتم بالـ **Web Security** و **Automation Tools**.
+- باحث تقني وشغوف في الأمن السيبراني والبرمجة.
+- مهتم بالـ Automation Tools
 - أحب تطوير أدوات تساعد الباحثين الأمنيين.
 
 ---
@@ -23,4 +23,4 @@
 
 ![GitHub Snake Dark](https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/github-snake-dark.svg#gh-dark-mode-only)
 
-⭐ لا تنسَ إعطاء نجمة للمشاريع اللي عجبتك!
+⭐ لا تنسَ إعطاء نجمة للمشاريع الي فادتك!
