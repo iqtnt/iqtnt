@@ -23,4 +23,9 @@
 
 ![GitHub Snake Dark](https://gist.githubusercontent.com/TajangSec/df4cbfee624290a86799b884b5b1527a/raw/github-snake-dark.svg#gh-dark-mode-only)
 
+---
+
+![dev](https://raw.githubusercontent.com/Rajspeaks/Rajspeaks/refs/heads/main/Images/footer.png)
+
+
 ⭐ لا تنسَ إعطاء نجمة للمشاريع الي فادتك!
